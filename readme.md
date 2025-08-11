@@ -1,30 +1,18 @@
-<h2 align="center">You're on my GitHub page! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="33"/></h2>
 
-<p align="center">My name is Rodion, I'am learning ReactJS now.</p><br>
+<p align="center">EN: Welcome! My name is Rodion, I am a self-taught programmer, I am an amateur web developer, I write in ReactJS</p>
+<p align="center">Добро пожаловать! Меня зовут Родион, я программист-самоучка, занимаюсь вебом, пишу на ReactJS</p>
 
----
+# My skills/мои навыки
 
-<h3 align="center">My skills</h3>
+GOOD:
 
-LANGUAGES SKILLS:
+[![Skills](https://skills.syvixor.com/api/icons?i=ts,js,linux,git,vim,neovim,node,npm,reactjs,vite,sqlite,html,css)](https://github.com/syvixor/skills-icons)
 
-```  
-JAVASCRIPT - Base/Middle level (AND I'AM STUDYING REACT NOW)
-PYTHON — Base/Middle level
-```
+MODERATE:
 
-OTHER SKILLS:
+[![Skills](https://skills.syvixor.com/api/icons?i=python,bash,json,expressjs,axios,discordbots,discordjs,githubpages,godot,blender)](https://github.com/syvixor/skills-icons)
 
-```
-HTML/CSS — Middle level
-GNU/LINUX - High level:
- Debian/Ubuntu & Suse distros
-FIGMA — Good level
-ENGLISH — A1:A2-B1 level
-```
+BAD:
 
----
+[![Skills](https://skills.syvixor.com/api/icons?i=powershell,docker,flask,django,bootstrap,jwt,mongodb)](https://github.com/syvixor/skills-icons)
 
-DIFFERENT LINKS:
-
-<a href="https://github.com/rodionmern/dotfiles"><img src="dotfiles.png"></img></a> <a href="https://rodionmern.github.io"><img src="website.png"></img></a>
