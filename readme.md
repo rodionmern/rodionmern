@@ -1,18 +1,23 @@
+<p align="right">ку</p>
 
-<p align="center">EN: Welcome! My name is Rodion, I am a self-taught programmer, I am an amateur web developer, I write in ReactJS</p>
-<p align="center">Добро пожаловать! Меня зовут Родион, я программист-самоучка, занимаюсь вебом, пишу на ReactJS</p>
+## проектики и относительно полезные штуковины
 
-# My skills/мои навыки
+- [ymr](https://github.com/rodionmern/ymr) - tg-бот для оценки просмотренных фильмов/сериалов/итд ***[py, pytelegrambotAPI]***
+- [minecraft-utils](https://github.com/rodionmern/minecraft_utils) - считалка кордов из незера в оверворлд и наоборот; пару раз пригождалась, однако писалась скорее просто чтобы попробовать скопировать minecraft ui (кстати, получилось неплохо, как по мне) ***[ts, react]***
+- [youtubemusic-search](https://github.com/rodionmern/youtubemusic-search/) - искалка песен на yt-music, тогда я млел по консольным мини-утилиткам, ну - она просто ищет песню по запросу, что ещё? ничего ***[py, youtubemusicAPI]***
+- [musstats](https://github.com/rodionmern/musstats) - учётник на фласке для отслеживания моих топов на last.fm; практической пользы (кроме эСтЕтИчЕсКоГо удовольствия) в нём нет, по сути всё это же можно и прямо на сайте посмотреть, однако мне хотелось написать такой учётник и поглядеть на апишку l.fm ***[py, js, flask]***
 
-GOOD:
+## навыкэ
 
-[![Skills](https://skills.syvixor.com/api/icons?i=ts,js,linux,git,vim,neovim,node,npm,reactjs,vite,sqlite,html,css)](https://github.com/syvixor/skills-icons)
+lang&markup
 
-MODERATE:
+[![Skills](https://skills.syvixor.com/api/icons?i=ts,js,python,html,css,json)](https://github.com/syvixor/skills-icons)
 
-[![Skills](https://skills.syvixor.com/api/icons?i=python,bash,json,expressjs,axios,discordbots,discordjs,githubpages,godot,blender)](https://github.com/syvixor/skills-icons)
+tools
 
-BAD:
+[![Skills](https://skills.syvixor.com/api/icons?i=bash,git,node,vite,sqlite,mongodb,docker)](https://github.com/syvixor/skills-icons)
 
-[![Skills](https://skills.syvixor.com/api/icons?i=powershell,docker,flask,django,bootstrap,jwt,mongodb)](https://github.com/syvixor/skills-icons)
+libs
+
+[![Skills](https://skills.syvixor.com/api/icons?i=reactjs,flask,expressjs,axios,django,jwt)](https://github.com/syvixor/skills-icons)
 
