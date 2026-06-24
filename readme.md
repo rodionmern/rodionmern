@@ -3,9 +3,9 @@
 ## проектики и относительно полезные штуковины
 
 - [ymr](https://github.com/rodionmern/ymr) - tg-бот для оценки просмотренных фильмов/сериалов/итд ***[py, pytelegrambotAPI]***
-- [minecraft-utils](https://github.com/rodionmern/minecraft_utils) - считалка кордов из незера в оверворлд и наоборот; пару раз пригождалась, однако писалась скорее просто чтобы попробовать скопировать minecraft ui (кстати, получилось неплохо, как по мне) ***[ts, react]***
-- [youtubemusic-search](https://github.com/rodionmern/youtubemusic-search/) - искалка песен на yt-music, тогда я млел по консольным мини-утилиткам, ну - она просто ищет песню по запросу, что ещё? ничего ***[py, youtubemusicAPI]***
-- [musstats](https://github.com/rodionmern/musstats) - учётник на фласке для отслеживания моих топов на last.fm; практической пользы (кроме эСтЕтИчЕсКоГо удовольствия) в нём нет, по сути всё это же можно и прямо на сайте посмотреть, однако мне хотелось написать такой учётник и поглядеть на апишку l.fm ***[py, js, flask]***
+- [minecraft-utils](https://github.com/rodionmern/minecraft_utils) - считалка кордов из незера в оверворлд и наоборот ***[ts, react]***
+- [youtubemusic-search](https://github.com/rodionmern/youtubemusic-search/) - консольная утилита для поиска песен на yt-music ***[py, youtubemusicAPI]***
+- [musstats](https://github.com/rodionmern/musstats) - учётник на фласке для отслеживания топов на last.fm ***[py, js, flask]***
 
 ## навыкэ
 
